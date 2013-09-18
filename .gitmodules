@@ -1,0 +1,6 @@
+[submodule "socketio"]
+	path = socketio
+	url = git@github.com:LearnBoost/socket.io.git
+[submodule "revealjs"]
+	path = revealjs
+	url = git@github.com:hakimel/reveal.js.git
