@@ -1,6 +1,9 @@
 [submodule "socketio"]
-	path = socketio
+	path = server/socketio
 	url = git@github.com:LearnBoost/socket.io.git
 [submodule "revealjs"]
-	path = revealjs
+	path = web/revealjs
 	url = git@github.com:hakimel/reveal.js.git
+[submodule "http-server"]
+	path = server/http-server
+	url = git@github.com:nodeapps/http-server.git
