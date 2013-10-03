@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"ba",
+				"background"
+			],
+			[
+				"htt",
+				"http_server_module"
+			],
+			[
 				"le",
 				"letter-spacing"
 			],
@@ -70,10 +78,6 @@
 			[
 				"te",
 				"text-align"
-			],
-			[
-				"ba",
-				"background-position"
 			],
 			[
 				"re",
@@ -510,22 +514,30 @@
 			[
 				"of",
 				"offerIndexMap"
-			],
-			[
-				"ro",
-				"row_groupsHeader"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "web/index.html",
+			"settings":
+			{
+				"buffer_size": 4928,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 288.0,
 		"selected_items":
 		[
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
 			[
 				"pret",
 				"HTMLPrettify"
@@ -549,10 +561,6 @@
 			[
 				"pretty",
 				"Pretty JSON: Reformat (Pretty Print) JSON"
-			],
-			[
-				"up",
-				"Convert Case: Upper Case"
 			],
 			[
 				"prett",
@@ -752,6 +760,29 @@
 	},
 	"file_history":
 	[
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/web/revealjs/plugin/multiplex/index.js",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/web/revealjs/js/reveal.js",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/web/pm/css/pm.css",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/server/server.js",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/server/node_modules/http-server/lib/http-server.js",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/server/node_modules/http-server/test/http-server-test.js",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/web/revealjs/index.html",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/web/revealjs/plugin/multiplex/master.js",
+		"/C/Users/BrownKG/AppData/Local/Temp/fz3temp-1/main.css",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/server/node_modules/http-server/package.json",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/server/http-server/lib/http-server.js",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/.git/modules/http-server/config",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/.git/modules/socketio/config",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/.git/modules/revealjs/config",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/.git/config",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/.gitmodules",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/server/http-server/.git",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/web/revealjs/.git",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/server/socketio/.git",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/web/revealjs/css/theme/moon.css",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/web/revealjs/css/theme/sky.css",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/web/pm/js",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/web",
 		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-www/prismtv/css/main.css",
 		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-www/prismtv/inc-prismFooter.html",
 		"/C/repository/CNTL-GIT/EXPERIMENTS/bazaarvoice-api/index.php",
@@ -856,30 +887,7 @@
 		"/C/Users/BrownKG/AppData/Local/Temp/fz3temp-1/.htaccess 5",
 		"/C/Users/BrownKG/AppData/Local/Temp/fz3temp-1/.htaccess 4",
 		"/C/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/test/index.html",
-		"/C/repository/CNTL-GIT/CNTL-PRISM-GIT/www.centurylink.com/gitignore.txt",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-www/prismtv/.htaccess",
-		"/C/Users/BrownKG/AppData/Local/Temp/fz3temp-1/.htaccess 2",
-		"/C/Users/BrownKG/AppData/Local/Temp/fz3temp-1/.htaccess",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-www/prismtv/includes/inc-extras-footer.html",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-www/assets/js/template_link_matrix.js",
-		"/C/Users/BrownKG/Downloads/videoplayback",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-www/prismtv/includes/inc-hero-channelLineup.html",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-www/prismtv/css/reset.css",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-promotions/test-push-to-staging.txt",
-		"/C/repository/CNTL-GIT/EXPERIMENTS/twitter/index.html",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-promotions/.git/ORIG_HEAD",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-promotions/.git/packed-refs",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-promotions/.git/index",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-promotions/.git/HEAD",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-promotions/.git/COMMIT_EDITMSG",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-promotions/.git/FETCH_HEAD",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-promotions/.git/description",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-promotions/.git/config",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-www/prismtv/js/jquery.dataTables.min.js",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-www/prismtv/reviews/inc-head-submission.html",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-www/README.md",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-sbrc/README.md",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-promotions/README.md"
+		"/C/repository/CNTL-GIT/CNTL-PRISM-GIT/www.centurylink.com/gitignore.txt"
 	],
 	"find":
 	{
@@ -903,6 +911,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"74a7cb",
+			"317fb8",
+			"3b759e",
 			"col",
 			"onlineonly",
 			"promo-99tv",
@@ -1027,10 +1038,7 @@
 			"SIMPLE_SUBTABS_SHOWTAB",
 			"changeSimpleSubtab",
 			"externallyChangeVideo",
-			"VIDEO_EXTERNAL_CHANGE_SRC",
-			"checkVirtualTestDriveVideo",
-			"multiVideoPlayer",
-			"videoAltTrackID"
+			"VIDEO_EXTERNAL_CHANGE_SRC"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1096,8 +1104,35 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "web/index.html",
+					"settings":
+					{
+						"buffer_size": 4928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3813,
+								3813
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1437.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
