@@ -520,26 +520,26 @@
 	"buffers":
 	[
 		{
-			"file": "web/supersecret.html",
+			"file": "css/reveal.css",
 			"settings":
 			{
-				"buffer_size": 4815,
+				"buffer_size": 47818,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "web/plugin/multiplex/master.js",
+			"file": "/C/Users/BrownKG/Downloads/impress.js-master/impress.js-master/index.html",
 			"settings":
 			{
-				"buffer_size": 1402,
-				"line_ending": "Windows"
+				"buffer_size": 19268,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "web/index.html",
+			"file": "supersecret.html",
 			"settings":
 			{
-				"buffer_size": 4983,
+				"buffer_size": 4870,
 				"line_ending": "Windows"
 			}
 		}
@@ -776,6 +776,16 @@
 	},
 	"file_history":
 	[
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/index.html",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/css/pm.css",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/js/reveal.js",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/plugin/zoom-js/zoom.js",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/lib/js/classList.js",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/plugin/postmessage/postmessage.js",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/plugin/postmessage/example.html",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/package.json",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/supersecret.html",
+		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/web/plugin/multiplex/master.js",
 		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/web/js/socket.io.js",
 		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/web/plugin/multiplex/index.js",
 		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/server/node_modules/socket.io/lib/socket.io.js",
@@ -783,7 +793,6 @@
 		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/web/node_modules/socket.io/index.js",
 		"/C/Users/BrownKG/AppData/Local/Temp/fz3temp-1/index.php",
 		"/C/Users/BrownKG/AppData/Local/Temp/fz3temp-1/index.html",
-		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/web/plugin/multiplex/master.js",
 		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/web/revealjs/plugin/multiplex/index.js",
 		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/web/revealjs/js/reveal.js",
 		"/C/repository/CNTL-GIT/EXPERIMENTS/Presentuclear/web/pm/css/pm.css",
@@ -894,16 +903,7 @@
 		"/C/Users/BrownKG/AppData/Local/Temp/fz3temp-1/foot.php",
 		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-promotions/ssl-certificate.txt",
 		"/C/Users/BrownKG/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/QBOX2IG5/cert cer.txt",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-www/assets/.htaccess",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-promotions/soho/lc/promos/internet/index.php",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-promotions/soho/assets/css/dtvbundle.css",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-promotions/soho/lc/promos/internet/headerstyles.php",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/ssl-key-promos-info.txt",
-		"/C/repository/Dropbox/dimensions/notes2.txt",
-		"/C/Users/BrownKG/AppData/Local/Temp/fz3temp-1/.htaccess 3",
-		"/C/Users/BrownKG/AppData/Local/Temp/fz3temp-1/github.txt",
-		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-www/prismtv/prismAdvancedFeatures.html",
-		"/C/Users/BrownKG/AppData/Local/Temp/fz3temp-1/.htaccess 6"
+		"/C/repository/CNTL-GIT/CNTL-GITHUB/CNTL-www/assets/.htaccess"
 	],
 	"find":
 	{
@@ -927,6 +927,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"past",
+			"transition",
 			"revealjs/",
 			"74a7cb",
 			"317fb8",
@@ -1052,9 +1054,7 @@
 			"select",
 			"SIMPLE_SUBTABS_SHOWTAB",
 			"changeSimpleSubtab",
-			"SIMPLE_SUBTABS_SHOWTAB",
-			"changeSimpleSubtab",
-			"externallyChangeVideo"
+			"SIMPLE_SUBTABS_SHOWTAB"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1120,77 +1120,78 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "web/supersecret.html",
+					"file": "css/reveal.css",
 					"settings":
 					{
-						"buffer_size": 4815,
+						"buffer_size": 47818,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3573,
-								3592
+								34379,
+								34383
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1613.0,
+						"translation.y": 24594.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "web/plugin/multiplex/master.js",
+					"file": "/C/Users/BrownKG/Downloads/impress.js-master/impress.js-master/index.html",
 					"settings":
 					{
-						"buffer_size": 1402,
+						"buffer_size": 19268,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								741,
-								741
+								1010,
+								1010
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3226.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "web/index.html",
+					"file": "supersecret.html",
 					"settings":
 					{
-						"buffer_size": 4983,
+						"buffer_size": 4870,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3217,
-								3217
+								3737,
+								3737
 							]
 						],
 						"settings":
@@ -1199,7 +1200,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1613.0,
+						"translation.y": 1653.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
